@@ -14,3 +14,7 @@
  *= require font-awesome
  *= require_self
  */
+body {
+  background-image: url('todobackground.jpg');
+  background-size: cover;
+}
